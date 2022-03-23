@@ -1,5 +1,5 @@
-print("hello world,")
+print("salom")
 
 
-def qale():
+for i in range(4):
 	print("nimaaaaa gaaaaap")
